@@ -35,3 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  - https://www.dokuwiki.org/template:evernote
  - https://www.dokuwiki.org/template:confluence
  - https://www.dokuwiki.org/template:googledocs
+
+  
+#### if you believe in my visual work, research, backend, documents, follow me and like me here on github
+  
