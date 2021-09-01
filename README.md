@@ -1,5 +1,3 @@
-<br />
-
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.dokuwiki.org/template">
   <img align="left" alt="OpenSourceCollaborationNow | Dokuwiki Template" width="22px" src="https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png" />
